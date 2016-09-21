@@ -8,6 +8,7 @@
 {
 	"documents": [
 		{"__leafID": "abc123", "key1": "value1"},
-		{"__leafID": "def456", "key2": "value2", "key3": ["value3", "value3.1"]}
+		{"__leafID": "abc789", "key1": "value1", "key2": "value2"},
+		{"__leafID": "def456", "keya": "value2", "key2": ["value3", "value3.1"]}
 	]
 }
