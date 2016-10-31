@@ -1,14 +1,4 @@
 ##LEAF_SOH
-{
-	"collection": "exemple",
-	"author": "nThebaud",
-	"creation": "150920162013"
-}
+{"collection":"exemple","author":"nThebaud","creation":"150920162013"}
 ##LEAF_EOH
-{
-	"documents": [
-		{"__leafID": "abc123", "key1": "value1"},
-		{"__leafID": "abc789", "key1": "value1", "key2": "value2"},
-		{"__leafID": "def456", "key1": "value2", "key2": ["value3", "value3.1"]}
-	]
-}
+{"documents": [{"__leafID":"abc123","key1":"value1"},{"__leafID":"abc789","key1":"value1","key2":"value2"},{"__leafID":"def456","key1":"value2","key2":["value3","value3.1"]},{"a":"TEST**","__leafID":"2pla6m4xb9g"}]}
